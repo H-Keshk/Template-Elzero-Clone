@@ -1282,7 +1282,7 @@ header .links-list:hover .othr-links-pop {
     position: relative;
     height: 1.8rem;
     background-color: var(--dark-grey);
-    margin-top: 0.5rem 0 1rem;
+    margin: 0.5rem 0 1rem;
 }
 
 .bar span {
